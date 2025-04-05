@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # Problem Solving Journey: HackerRank & LeetCode
 =======
 
